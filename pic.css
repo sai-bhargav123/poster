@@ -23,6 +23,7 @@ h2{
 }
 h3{
     color: rgb(198, 248, 16);
+     width: 100px;
 }
 .title{
     display: flex;
